@@ -1,0 +1,19 @@
+{
+    "name": "aryaink/pistol",
+    "description": "Test",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aryaink",
+            "email": "arya@aryaink.com",
+            "homepage": "https://github.com/aryaink"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Aryaink\\Pistol\\":  "src/"
+        }
+    }
+}
